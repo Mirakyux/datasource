@@ -1,0 +1,522 @@
+[
+    {
+        "id": 1,
+        "word": "bronchitis",
+        "definition": "支气管炎"
+    },
+    {
+        "id": 2,
+        "word": "Smoking",
+        "definition": "吸烟"
+    },
+    {
+        "id": 3,
+        "word": "Occupation",
+        "definition": "职业"
+    },
+    {
+        "id": 4,
+        "word": "Infection",
+        "definition": "感染"
+    },
+    {
+        "id": 5,
+        "word": "Cough",
+        "definition": "咳嗽"
+    },
+    {
+        "id": 6,
+        "word": "sputum",
+        "definition": "痰"
+    },
+    {
+        "id": 7,
+        "word": "Hypertrophy",
+        "definition": "肥大"
+    },
+    {
+        "id": 8,
+        "word": "Hyperplasia",
+        "definition": "增生"
+    },
+    {
+        "id": 9,
+        "word": "Wheezingly",
+        "definition": "哮喘地,喘息地"
+    },
+    {
+        "id": 10,
+        "word": "asthmatic",
+        "definition": "哮喘的"
+    },
+    {
+        "id": 11,
+        "word": "proteolytic",
+        "definition": "蛋白水解的"
+    },
+    {
+        "id": 12,
+        "word": "Obstruction",
+        "definition": "阻塞"
+    },
+    {
+        "id": 13,
+        "word": "Emphysema",
+        "definition": "肺气肿"
+    },
+    {
+        "id": 14,
+        "word": "Resistance",
+        "definition": "阻力"
+    },
+    {
+        "id": 15,
+        "word": "Inflated",
+        "definition": "膨胀的"
+    },
+    {
+        "id": 16,
+        "word": "Dyspnea",
+        "definition": "呼吸困难"
+    },
+    {
+        "id": 17,
+        "word": "sedation",
+        "definition": "镇静"
+    },
+    {
+        "id": 18,
+        "word": "encephalopathy",
+        "definition": "脑病"
+    },
+    {
+        "id": 19,
+        "word": "cyanotic",
+        "definition": "发绀的,青紫的"
+    },
+    {
+        "id": 20,
+        "word": "distention",
+        "definition": "膨胀,延伸"
+    },
+    {
+        "id": 21,
+        "word": "failure",
+        "definition": "失败,衰竭"
+    },
+    {
+        "id": 22,
+        "word": "oxygen",
+        "definition": "氧"
+    },
+    {
+        "id": 23,
+        "word": "asthma",
+        "definition": "哮喘"
+    },
+    {
+        "id": 24,
+        "word": "aminophylline",
+        "definition": "氨茶碱"
+    },
+    {
+        "id": 25,
+        "word": "allergic",
+        "definition": "变应性的"
+    },
+    {
+        "id": 26,
+        "word": "eosinophilia",
+        "definition": "嗜酸细胞增多"
+    },
+    {
+        "id": 27,
+        "word": "salbutamol",
+        "definition": "沙丁胺醇"
+    },
+    {
+        "id": 28,
+        "word": "hydrocortisone",
+        "definition": "氢化可的松"
+    },
+    {
+        "id": 29,
+        "word": "prednisolone",
+        "definition": "泼尼松龙"
+    },
+    {
+        "id": 30,
+        "word": "extrinsic",
+        "definition": "外在的,外来的"
+    },
+    {
+        "id": 31,
+        "word": "intrinsic",
+        "definition": "内在的,"
+    },
+    {
+        "id": 32,
+        "word": "anticholinergic",
+        "definition": "反副交感神经生理作用的"
+    },
+    {
+        "id": 33,
+        "word": "inhalation",
+        "definition": "吸入"
+    },
+    {
+        "id": 34,
+        "word": "ventilation",
+        "definition": "通气"
+    },
+    {
+        "id": 35,
+        "word": "sputum",
+        "definition": "痰"
+    },
+    {
+        "id": 36,
+        "word": "bronchiectasis",
+        "definition": "支气管扩张症"
+    },
+    {
+        "id": 37,
+        "word": "inflammatory",
+        "definition": "炎症性的"
+    },
+    {
+        "id": 38,
+        "word": "lobar",
+        "definition": "叶的"
+    },
+    {
+        "id": 39,
+        "word": "bacterial",
+        "definition": "细菌的"
+    },
+    {
+        "id": 40,
+        "word": "staphylococcal",
+        "definition": "葡萄球菌的"
+    },
+    {
+        "id": 41,
+        "word": "legionnaire",
+        "definition": "军团的士兵"
+    },
+    {
+        "id": 42,
+        "word": "viral",
+        "definition": "病毒性菌的"
+    },
+    {
+        "id": 43,
+        "word": "mycoplasma",
+        "definition": "支原体"
+    },
+    {
+        "id": 44,
+        "word": "rusty",
+        "definition": "铁锈色的"
+    },
+    {
+        "id": 45,
+        "word": "pneumonia",
+        "definition": "肺炎"
+    },
+    {
+        "id": 46,
+        "word": "bronchopneumonia",
+        "definition": "支气管肺炎"
+    },
+    {
+        "id": 47,
+        "word": "alveolar",
+        "definition": "肺泡的"
+    },
+    {
+        "id": 48,
+        "word": "polymorphonuclear",
+        "definition": "中性粒细胞"
+    },
+    {
+        "id": 49,
+        "word": "amoxicillin",
+        "definition": "羟氨卞青霉素"
+    },
+    {
+        "id": 50,
+        "word": "penicillin",
+        "definition": "青霉素"
+    },
+    {
+        "id": 51,
+        "word": "tetracycline",
+        "definition": "四环素"
+    },
+    {
+        "id": 52,
+        "word": "mucoid",
+        "definition": "粘液样的"
+    },
+    {
+        "id": 53,
+        "word": "rigor",
+        "definition": "寒战"
+    },
+    {
+        "id": 54,
+        "word": "opportunistic",
+        "definition": "机会性的"
+    },
+    {
+        "id": 55,
+        "word": "abscess",
+        "definition": "脓肿"
+    },
+    {
+        "id": 56,
+        "word": "pathogenic",
+        "definition": "致病的"
+    },
+    {
+        "id": 57,
+        "word": "bacillus",
+        "definition": "杆菌"
+    },
+    {
+        "id": 58,
+        "word": "tuberculosis",
+        "definition": "肺结核"
+    },
+    {
+        "id": 59,
+        "word": "primary",
+        "definition": "主要的,原来的,"
+    },
+    {
+        "id": 60,
+        "word": "pyrazinamide",
+        "definition": "吡嗪酰胺"
+    },
+    {
+        "id": 61,
+        "word": "isoniazid",
+        "definition": "异烟肼"
+    },
+    {
+        "id": 62,
+        "word": "rifampicin",
+        "definition": "利福平"
+    },
+    {
+        "id": 63,
+        "word": "ethambutol",
+        "definition": "乙胺丁醇"
+    },
+    {
+        "id": 64,
+        "word": "streptomycin",
+        "definition": "链霉素"
+    },
+    {
+        "id": 65,
+        "word": "malaise",
+        "definition": "不适"
+    },
+    {
+        "id": 66,
+        "word": "fatigue",
+        "definition": "疲劳"
+    },
+    {
+        "id": 67,
+        "word": "fibrosis",
+        "definition": "纤维症"
+    },
+    {
+        "id": 68,
+        "word": "dissemination",
+        "definition": "播散"
+    },
+    {
+        "id": 69,
+        "word": "cavitation",
+        "definition": "成洞"
+    },
+    {
+        "id": 70,
+        "word": "deafness",
+        "definition": "聋"
+    },
+    {
+        "id": 71,
+        "word": "effusion",
+        "definition": "胸腔积液"
+    },
+    {
+        "id": 72,
+        "word": "arrhythmias",
+        "definition": "心律失常"
+    },
+    {
+        "id": 73,
+        "word": "pacemaker",
+        "definition": "起搏点"
+    },
+    {
+        "id": 74,
+        "word": "refractory period",
+        "definition": "不应期"
+    },
+    {
+        "id": 75,
+        "word": "Absolute refractory period",
+        "definition": "绝对不应期"
+    },
+    {
+        "id": 76,
+        "word": "effective refractory period",
+        "definition": "有效不应期"
+    },
+    {
+        "id": 77,
+        "word": "relative refractory period",
+        "definition": "相对不应期"
+    },
+    {
+        "id": 78,
+        "word": "Sinus rhythm",
+        "definition": "窦性心律"
+    },
+    {
+        "id": 79,
+        "word": "Sinus tachycardia",
+        "definition": "窦性心动过速"
+    },
+    {
+        "id": 80,
+        "word": "Sinus bradycardia",
+        "definition": "窦性心动过缓"
+    },
+    {
+        "id": 810,
+        "word": "Sinus arrhythmia",
+        "definition": "窦性心律不齐"
+    },
+    {
+        "id": 82,
+        "word": "Sick sinus syndrome",
+        "definition": "病态窦房结综合征"
+    },
+    {
+        "id": 83,
+        "word": "Bigeminy",
+        "definition": "二联律"
+    },
+    {
+        "id": 84,
+        "word": "Trigeminy",
+        "definition": "三联律"
+    },
+    {
+        "id": 85,
+        "word": "Premature ventricular contraction",
+        "definition": "室性期前收缩"
+    },
+    {
+        "id": 86,
+        "word": "Premature atrial contraction",
+        "definition": "房性期前收缩"
+    },
+    {
+        "id": 87,
+        "word": "Premature junctional contraction",
+        "definition": "交界性期前收缩"
+    },
+    {
+        "id": 88,
+        "word": "Paroxysmal supraventricular tachycardia",
+        "definition": "阵发性室上性心动过速"
+    },
+    {
+        "id": 89,
+        "word": "Ventricular tachycardia",
+        "definition": "室性心动过速"
+    },
+    {
+        "id": 90,
+        "word": "Non paroxysmal tachycardia",
+        "definition": "非阵发性心动过速"
+    },
+    {
+        "id": 910,
+        "word": "Torsade depointes",
+        "definition": "扭转性室性心动过速"
+    },
+    {
+        "id": 92,
+        "word": "Atrial flutter",
+        "definition": "心房扑动"
+    },
+    {
+        "id": 93,
+        "word": "Atrial fibrillation",
+        "definition": "心房颤动"
+    },
+    {
+        "id": 94,
+        "word": "Ventricular flutter",
+        "definition": "心室扑动"
+    },
+    {
+        "id": 95,
+        "word": "Ventricular fibrillation",
+        "definition": "心室颤动"
+    },
+    {
+        "id": 96,
+        "word": "Heart block",
+        "definition": "心脏传导阻滞"
+    },
+    {
+        "id": 97,
+        "word": "Sinoatrial block",
+        "definition": "窦房传导阻滞"
+    },
+    {
+        "id": 98,
+        "word": "Intra-atrial block",
+        "definition": "房内阻滞"
+    },
+    {
+        "id": 99,
+        "word": "Atrioventricular block",
+        "definition": "房室传导阻滞"
+    },
+    {
+        "id": 100,
+        "word": "Wenckebach phenomenon",
+        "definition": "文氏现象"
+    },
+    {
+        "id": 101,
+        "word": "Right bundle branch block",
+        "definition": "右束支阻滞"
+    },
+    {
+        "id": 102,
+        "word": "Left bundle branch block",
+        "definition": "左束支阻滞"
+    },
+    {
+        "id": 103,
+        "word": "Preexcitation syndrome",
+        "definition": "预激综合征"
+    },
+    {
+        "id": 104,
+        "word": "Escape rhythm",
+        "definition": "逸搏心律"
+    }
+  ];
